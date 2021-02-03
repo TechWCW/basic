@@ -6,6 +6,7 @@
 
 ## 项目结构
 
+```
 ├── build.gradle
 ├── proguard-rules.pro
 └── src
@@ -35,6 +36,9 @@
     │   │               │   └── RetrofitFactory.kt----------------Retrofit封装
     │   │               └── widget
     │   │                   └── ListViewInScrollView.kt
+```
+
+
 
 ## 如何使用
 
